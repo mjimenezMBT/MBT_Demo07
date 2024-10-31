@@ -27,10 +27,15 @@
       align-items: center;
       gap: 12px;
       img {
-        width: 24px;
-        height: 24px;
+        width: 94px;
+        height: 74px;
+      }
+      span {
+        font-size: 15px;
+        font-weight: bold;
       }
     }
+
   }
 
   .content-main {
